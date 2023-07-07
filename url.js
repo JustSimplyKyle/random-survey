@@ -8,13 +8,13 @@
 
 
 const urls = [
-	'https://reurl.cc/aVVpy4',
-	'https://reurl.cc/ZWWR63',
-	'https://reurl.cc/DAANz6',
-	'https://reurl.cc/WGGe6D',
-	'https://reurl.cc/944deY',
-	'https://reurl.cc/lDDEmq',
-	'https://reurl.cc/AAAEQK',
-	'https://reurl.cc/DAANRj',
-	'https://reurl.cc/4ookAL'
+'https://forms.gle/CYoKHR2uUiSdSonP6',
+'https://forms.gle/sNEfPSJLdgifHRoB6',
+'https://forms.gle/QzvBwoPpC6sV4JAm7',
+'https://forms.gle/zG8VvXnhfRz79Wqm9',
+'https://forms.gle/on8NGypcSg5HVM1AA',
+'https://forms.gle/KtBsF5zsYPtf2f8A6',
+'https://forms.gle/KcDvAPSqsTDE4gqe9',
+'https://forms.gle/4S27ETaeQcZ9JZ6F7',
+'https://forms.gle/rAzP17zosuxhWoc1A'
 ];
